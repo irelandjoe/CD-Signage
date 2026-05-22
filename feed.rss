@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Image Feed</title>
+    <link>https://example.com</link>
+    <description>Latest images</description>
+
+    <item>
+      <title>Image 1</title>
+      <link>https://example.com/image1</link>
+      <enclosure 
+        url="https://example.com/images/photo1.jpg" 
+        type="image/jpeg" />
+      <pubDate>Fri, 22 May 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Image 2</title>
+      <link>https://example.com/image2</link>
+      <enclosure 
+        url="https://example.com/images/photo2.png" 
+        type="image/png" />
+      <pubDate>Fri, 22 May 2026 08:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
