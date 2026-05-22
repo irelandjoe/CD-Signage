@@ -3,7 +3,6 @@
   <channel>
     <title>My Image Feed</title>
     <link>https://example.com</link>
-    <description>Latest images</description>
 
     <item>
       <title>Image 1</title>
